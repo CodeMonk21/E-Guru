@@ -1,5 +1,5 @@
 
-# Project Title
+# E-Guru
 
 * This is a Online Teaching Landing-Page given by PW Skills as an project for practice html and css skills.
 
